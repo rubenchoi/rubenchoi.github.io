@@ -12,7 +12,7 @@ import Footer from "../components/Footer"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Portfolio Template" />
+    <SEO title="Ruben Choi" />
     <Header></Header>
     <Work></Work>
     <hr style={{ width: '70%', border: '1px solid #d5dfed', marginTop: '2em' }} />
