@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.417d0c47.chunk.js",
-    "main.js.map": "/static/js/main.417d0c47.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.af7bad75.js",
-    "runtime-main.js.map": "/static/js/runtime-main.af7bad75.js.map",
-    "static/js/2.f00fbfa2.chunk.js": "/static/js/2.f00fbfa2.chunk.js",
-    "static/js/2.f00fbfa2.chunk.js.map": "/static/js/2.f00fbfa2.chunk.js.map",
-    "static/js/3.033f21ad.chunk.js": "/static/js/3.033f21ad.chunk.js",
-    "static/js/3.033f21ad.chunk.js.map": "/static/js/3.033f21ad.chunk.js.map",
+    "main.css": "/static/css/main.778eeed7.css",
+    "main.js": "/static/js/main.0e537f35.js",
+    "static/js/787.23917691.chunk.js": "/static/js/787.23917691.chunk.js",
+    "static/media/ruben_portrait.png": "/static/media/ruben_portrait.3703d7ba3db9c1bbf835.png",
+    "static/media/inferno.png": "/static/media/inferno.d08993bb59f6d3e8826c.png",
+    "static/media/ruben_portrait_1x1.png": "/static/media/ruben_portrait_1x1.a34f0ca3a19e8d74f22e.png",
+    "static/media/farewell.jpg": "/static/media/farewell.5ae48c0de317f278d492.jpg",
     "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.f00fbfa2.chunk.js.LICENSE.txt": "/static/js/2.f00fbfa2.chunk.js.LICENSE.txt"
+    "main.778eeed7.css.map": "/static/css/main.778eeed7.css.map",
+    "main.0e537f35.js.map": "/static/js/main.0e537f35.js.map",
+    "787.23917691.chunk.js.map": "/static/js/787.23917691.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.af7bad75.js",
-    "static/js/2.f00fbfa2.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.417d0c47.chunk.js"
+    "static/css/main.778eeed7.css",
+    "static/js/main.0e537f35.js"
   ]
 }
